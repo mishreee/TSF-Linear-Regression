@@ -16,8 +16,13 @@ Evaluating Results and Accuracy of Predictions: Once the model was developed, it
 Several Python libraries were utilized throughout the project, including:
 
 NumPy: Used for numerical computations and array operations.
+
 Seaborn: Used for data visualization and exploratory data analysis.
+
 Scikit-learn: Used for implementing the linear regression model and performing machine learning tasks.
+
 Matplotlib: Used for creating plots and visualizations.
+
 Pandas: Used for data manipulation and analysis.
+
 Overall, this project aimed to leverage linear regression and machine learning techniques to predict student scores based on their study time, using a given dataset.
